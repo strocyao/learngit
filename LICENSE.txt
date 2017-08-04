@@ -1,0 +1,8 @@
+ASQ_close_flag = 0;
+ASQ_open_flag = 0;
+
+															 spray_ready1 = 1;
+															 spray_ready2 = 0;
+															 pause_flag = 0;
+															 spray_phase = 1;
+															 GUI_ClearSCR();
